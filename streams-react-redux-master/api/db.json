@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "Lorem",
+      "description": "super stream one",
+      "id": 1
+    },
+    {
+      "title": "Lorem",
+      "description": "super stream one",
+      "id": 2
+    },
+    {
+      "title": "Unexpected behavior",
+      "description": "Stream about editing",
+      "id": 6
+    },
+    {
+      "title": "one ",
+      "description": "new stream",
+      "userId": "110528907246744854653",
+      "id": 7
+    }
+  ]
+}
